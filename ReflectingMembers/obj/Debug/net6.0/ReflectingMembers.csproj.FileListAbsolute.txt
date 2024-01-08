@@ -1,0 +1,14 @@
+H:\.NET عصام عبدالنبي\C#\Reflection And Metadata\Reflection\ReflectingMembers\bin\Debug\net6.0\ReflectingMembers.exe
+H:\.NET عصام عبدالنبي\C#\Reflection And Metadata\Reflection\ReflectingMembers\bin\Debug\net6.0\ReflectingMembers.deps.json
+H:\.NET عصام عبدالنبي\C#\Reflection And Metadata\Reflection\ReflectingMembers\bin\Debug\net6.0\ReflectingMembers.runtimeconfig.json
+H:\.NET عصام عبدالنبي\C#\Reflection And Metadata\Reflection\ReflectingMembers\bin\Debug\net6.0\ReflectingMembers.dll
+H:\.NET عصام عبدالنبي\C#\Reflection And Metadata\Reflection\ReflectingMembers\bin\Debug\net6.0\ReflectingMembers.pdb
+H:\.NET عصام عبدالنبي\C#\Reflection And Metadata\Reflection\ReflectingMembers\obj\Debug\net6.0\ReflectingMembers.GeneratedMSBuildEditorConfig.editorconfig
+H:\.NET عصام عبدالنبي\C#\Reflection And Metadata\Reflection\ReflectingMembers\obj\Debug\net6.0\ReflectingMembers.AssemblyInfoInputs.cache
+H:\.NET عصام عبدالنبي\C#\Reflection And Metadata\Reflection\ReflectingMembers\obj\Debug\net6.0\ReflectingMembers.AssemblyInfo.cs
+H:\.NET عصام عبدالنبي\C#\Reflection And Metadata\Reflection\ReflectingMembers\obj\Debug\net6.0\ReflectingMembers.csproj.CoreCompileInputs.cache
+H:\.NET عصام عبدالنبي\C#\Reflection And Metadata\Reflection\ReflectingMembers\obj\Debug\net6.0\ReflectingMembers.dll
+H:\.NET عصام عبدالنبي\C#\Reflection And Metadata\Reflection\ReflectingMembers\obj\Debug\net6.0\refint\ReflectingMembers.dll
+H:\.NET عصام عبدالنبي\C#\Reflection And Metadata\Reflection\ReflectingMembers\obj\Debug\net6.0\ReflectingMembers.pdb
+H:\.NET عصام عبدالنبي\C#\Reflection And Metadata\Reflection\ReflectingMembers\obj\Debug\net6.0\ReflectingMembers.genruntimeconfig.cache
+H:\.NET عصام عبدالنبي\C#\Reflection And Metadata\Reflection\ReflectingMembers\obj\Debug\net6.0\ref\ReflectingMembers.dll

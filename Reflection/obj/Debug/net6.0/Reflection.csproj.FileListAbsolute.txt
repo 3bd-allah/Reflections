@@ -1,0 +1,14 @@
+H:\.NET عصام عبدالنبي\C#\Reflection And Metadata\Reflection\Reflection\bin\Debug\net6.0\Reflection.exe
+H:\.NET عصام عبدالنبي\C#\Reflection And Metadata\Reflection\Reflection\bin\Debug\net6.0\Reflection.deps.json
+H:\.NET عصام عبدالنبي\C#\Reflection And Metadata\Reflection\Reflection\bin\Debug\net6.0\Reflection.runtimeconfig.json
+H:\.NET عصام عبدالنبي\C#\Reflection And Metadata\Reflection\Reflection\bin\Debug\net6.0\Reflection.dll
+H:\.NET عصام عبدالنبي\C#\Reflection And Metadata\Reflection\Reflection\bin\Debug\net6.0\Reflection.pdb
+H:\.NET عصام عبدالنبي\C#\Reflection And Metadata\Reflection\Reflection\obj\Debug\net6.0\Reflection.GeneratedMSBuildEditorConfig.editorconfig
+H:\.NET عصام عبدالنبي\C#\Reflection And Metadata\Reflection\Reflection\obj\Debug\net6.0\Reflection.AssemblyInfoInputs.cache
+H:\.NET عصام عبدالنبي\C#\Reflection And Metadata\Reflection\Reflection\obj\Debug\net6.0\Reflection.AssemblyInfo.cs
+H:\.NET عصام عبدالنبي\C#\Reflection And Metadata\Reflection\Reflection\obj\Debug\net6.0\Reflection.csproj.CoreCompileInputs.cache
+H:\.NET عصام عبدالنبي\C#\Reflection And Metadata\Reflection\Reflection\obj\Debug\net6.0\Reflection.dll
+H:\.NET عصام عبدالنبي\C#\Reflection And Metadata\Reflection\Reflection\obj\Debug\net6.0\refint\Reflection.dll
+H:\.NET عصام عبدالنبي\C#\Reflection And Metadata\Reflection\Reflection\obj\Debug\net6.0\Reflection.pdb
+H:\.NET عصام عبدالنبي\C#\Reflection And Metadata\Reflection\Reflection\obj\Debug\net6.0\Reflection.genruntimeconfig.cache
+H:\.NET عصام عبدالنبي\C#\Reflection And Metadata\Reflection\Reflection\obj\Debug\net6.0\ref\Reflection.dll
